@@ -1,6 +1,6 @@
-# Microdust 微尘
+# Soulfarland 心远
 
-This is a blog created by Azeril. The blog is live at [azeril.me](http://azeril.me/).
+This is a blog created by Duelfang. The blog is live at [Soulfarland](http://duelfang.github.io).
 
 ## Thanks
 
